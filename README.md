@@ -10,7 +10,7 @@ This is a docker template for local development using [Laravel 9](https://larave
 ## Setup
 **1. Clone the repo**
 
-`git clone git@github.com:runthis/laravel-9-docker.git laravel-9-docker && cd laravel-9-docker`
+`git clone git@github.com:Readus-01/laravel-9-docker.git laravel-9-docker && cd laravel-9-docker`
 
 **2. Build the container**
 
